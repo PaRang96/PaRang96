@@ -9,3 +9,5 @@ Lee, MinSeok
 ### Education: University of Utah, BS Psychology, minor in Sociology
 
 ### Certificate: Python for everyone (from Coursera, lecture by Dr.Severance, professor of Univeristy of Michigan)
+
+## currently working for: easywith `http://easywith.com/`
