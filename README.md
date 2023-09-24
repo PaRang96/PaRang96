@@ -1,7 +1,8 @@
 Lee, MinSeok
 =============
 - Interested in VirtualSpace and GameMaking
-- Learning C/C++, Unreal Engine 4
+- use C++, C#, and Python in limited environment
+- Unreal Engine 4 and 5
 -------------
 ## How to reach me: winterreise94@gmail.com or Discord: 이민석#2048
 
